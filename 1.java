@@ -1,6 +1,4 @@
-//dierci 2
+//di 1 ci
 int a=0
-//di  3
+//di 2 ci
 int b=0
-//di 4
-int c=0
